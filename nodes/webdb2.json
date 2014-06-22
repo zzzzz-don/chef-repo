@@ -4,6 +4,6 @@
     "recipe[nginx]"
   ],
   "automatic": {
-    "ipaddress": "192.168.33.10"
+    "ipaddress": "webdb2"
   }
 }
